@@ -134,14 +134,14 @@ npm run build-page
 
 ## CloudFlare Worker 部署
 ### 自动部署 (不熟悉开发流程的小伙伴推荐)
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jianjianai/microsoft-copilot-porxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/robin-jiangdh/ms-copilot-play)
 <details>
 <summary>详细教学，点击展开</summary>
 
 
 1. 点击这个部署按钮
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jianjianai/microsoft-copilot-porxy)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/robin-jiangdh/ms-copilot-play)
 
 2. 在打开的页面点击`Authorize Workers`
 
